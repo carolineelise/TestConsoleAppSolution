@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\repos\C# test console app.cs" Link="C# test console app.cs" />
+  </ItemGroup>
+
 </Project>
